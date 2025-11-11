@@ -1,6 +1,6 @@
 # EXP 1 A : COMPUTATION OF DFT USING DIRECT AND FFT
-## Giri R
-## 212223060068
+## Pradeep M
+## 212223060200
 # AIM: 
 To Obtain DFT and FFT of a given sequence in SCILAB
 
